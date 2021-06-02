@@ -1,0 +1,6 @@
+framework module Pods_ALLINTests {
+  umbrella header "Pods-ALLINTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
